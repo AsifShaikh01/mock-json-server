@@ -1,0 +1,28 @@
+{
+    "todos":[
+        {
+            "id":1,
+            "title":"Leran HTML",
+            "desc":"basic building block of web developement",
+            "status":false
+        },
+         {
+            "id":2,
+            "title":"Leran CSS",
+            "desc":"style me reheneka!!",
+            "status":false
+        },
+         {
+            "id":3,
+            "title":"Leran JavaScript",
+            "desc":"Dimaag ki batti jalao!",
+            "status":false
+        },
+         {
+            "id":4,
+            "title":"Leran ReactJS",
+            "desc":"Kuch tedha ho jaye!",
+            "status":false
+        }
+    ]
+}
