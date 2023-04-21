@@ -8,24 +8,24 @@
     "id": 1
   },
   {
-    "name": "Tom",
-    "age": "1",
+    "name": "Tommy",
+    "age": "2",
     "gender": "Male",
-    "place": "Indore",
+    "place": "Pune",
     "id": 2
   },
   {
-    "name": "Tom",
-    "age": "1",
+    "name": "Moti",
+    "age": "6",
     "gender": "Male",
-    "place": "Indore",
+    "place": "Channai",
     "id": 3
   },
   {
-    "name": "Tom",
-    "age": "1",
+    "name": "Billy",
+    "age": "4",
     "gender": "Male",
-    "place": "Indore",
+    "place": "Delhi",
     "id": 4
   }
        
