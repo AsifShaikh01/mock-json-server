@@ -152,6 +152,33 @@
         }
     ],
     "wishlisted_cars":[
+      {
+        "brand": "Toyota",
+        "type": "Automated",
+        "year": "2020",
+        "km": "24578",
+        "desc": "hdgdtdy",
+        "price": "1245789",
+        "id": 1
+      },
+      {
+        "brand": "MG",
+        "type": "Petrol",
+        "year": "2019",
+        "km": "12457",
+        "desc": "hdgdtdy",
+        "price": "47589",
+        "id": 2
+      },
+      {
+        "brand": "Mahindra",
+        "type": "Automated",
+        "year": "2018",
+        "km": "5789",
+        "desc": "hdgdtdy",
+        "price": "235647",
+        "id": 3
+      }
       
     ]
 
