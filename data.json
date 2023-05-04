@@ -183,20 +183,7 @@
     ],
 
     "users":[
-          {
-    "name": "Asif",
-    "category": "Sports",
-    "level": "Low",
-    "amount": "10",
-    "id": 1
-  },
-    {
-    "name": "Tony",
-    "category": "Geography",
-    "level": "Medium",
-    "amount": "20",
-    "id": 2
-  }
+        
     ]
 
 }
