@@ -186,7 +186,46 @@
         
     ],
     "empolyees":[
-      
+      {
+        "fisrtName": "asif",
+        "lastName": "shaikh",
+        "email": "asifshaikh0024@gmail.com",
+        "department": "Tech",
+        "salary": "1000000",
+        "id": 1
+      },
+      {
+        "fisrtName": "tony",
+        "lastName": "stark",
+        "email": "tony@gmail.com",
+        "department": "Operations",
+        "salary": "1200000",
+        "id": 2
+      },
+      {
+        "fisrtName": "clark",
+        "lastName": "kent",
+        "email": "superman@gmail.com",
+        "department": "Marketing",
+        "salary": "1500000",
+        "id": 3
+      },
+      {
+        "fisrtName": "peter",
+        "lastName": "parker",
+        "email": "spidey@gmail.com",
+        "department": "Tech",
+        "salary": "4000000",
+        "id": 4
+      },
+      {
+        "fisrtName": "lucifer",
+        "lastName": "morningstar",
+        "email": "devil@gmail.com",
+        "department": "Tech",
+        "salary": "3000000",
+        "id": 5
+      }
     ]
 
 }
