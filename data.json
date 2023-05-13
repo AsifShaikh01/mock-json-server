@@ -252,6 +252,16 @@
       "Price": 300,
       "Stock": 8
     }
+  ],
+  "cart":[
+    {
+      "id":1,
+      "name": "Dark Chocolate",
+      "Flavor": "Chocolate",
+      "Description": "Rich, creamy chocolate ice cream.",
+      "Price": 250,
+      "Stock": 10
+    }
   ]
     
 
