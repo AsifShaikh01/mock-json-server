@@ -3,7 +3,90 @@
       
     ],
     "freelancers":[
-
+        {
+            "name": "Mark Spector",
+            "profile_picture": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652__340.png",
+            "email": "asifshaikh0024@gmail.com",
+            "password": "123456",
+            "profession": "Student",
+            "hourly_rate": "12",
+            "skills": [
+              "HTML",
+              "CSS",
+              "REACT"
+            ],
+            "id": 1
+          },
+          {
+            "name": "Mark Spector",
+            "profile_picture": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652__340.png",
+            "email": "asifshaikh0024@gmail.com",
+            "password": "123456",
+            "profession": "Web Developer",
+            "hourly_rate": "10",
+            "skills": [
+              "HTML",
+              "CSS",
+              "JS"
+            ],
+            "id": 2
+          },
+          {
+            "name": "Mark Spector",
+            "profile_picture": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652__340.png",
+            "email": "asifshaikh0024@gmail.com",
+            "password": "123456",
+            "profession": "Student",
+            "hourly_rate": "15",
+            "skills": [
+              "HTML",
+              "CSS",
+              "REACT"
+            ],
+            "id": 3
+          },
+          {
+            "name": "Mark Spector",
+            "profile_picture": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652__340.png",
+            "email": "asifshaikh0024@gmail.com",
+            "password": "123456",
+            "profession": "Web Developer",
+            "hourly_rate": "50",
+            "skills": [
+              "HTML",
+              "CSS",
+              "JS"
+            ],
+            "id": 4
+          },
+          {
+            "name": "Mark Spector",
+            "profile_picture": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652__340.png",
+            "email": "asifshaikh0024@gmail.com",
+            "password": "123456",
+            "profession": "Student",
+            "hourly_rate": "25",
+            "skills": [
+              "HTML",
+              "CSS",
+              "REACT"
+            ],
+            "id": 5
+          },
+          {
+            "name": "Mark Spector",
+            "profile_picture": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652__340.png",
+            "email": "asifshaikh0024@gmail.com",
+            "password": "123456",
+            "profession": "Web Developer",
+            "hourly_rate": "35",
+            "skills": [
+              "HTML",
+              "CSS",
+              "JS"
+            ],
+            "id": 6
+          }
     ]
 
     
