@@ -92,7 +92,57 @@
 
     ],
     "forum" : [
-      
+      {
+        "name": "tony",
+        "title": "How to add input tag in react?",
+        "desc": "want to add input tag in the form",
+        "language": "Java",
+        "date": "2023-06-03",
+        "id": 1
+      },
+      {
+        "name": "asif",
+        "title": "How to add input tag in react?",
+        "desc": "want to add input tag in the form",
+        "language": "Python",
+        "date": "2023-06-03",
+        "id": 2
+      },
+      {
+        "name": "mark",
+        "title": "How to add input tag in react?",
+        "desc": "want to add input tag in the form",
+        "language": "JavaScript",
+        "date": "2023-06-04",
+        "id": 3
+      },
+      {
+        "name": "clark",
+        "title": "How to add input tag in react?",
+        "desc": "want to add input tag in the form",
+        "language": "Java",
+        "date": "2023-06-01",
+        "id": 4
+      },
+      {
+        "name": "clark",
+        "title": "How to add input tag in react?",
+        "desc": "want to add input tag in the form",
+        "language": "JavaScript",
+        "date": "2023-06-03",
+        "id": 5
+      },
+      {
+        "name": "tony",
+        "title": "How to add input tag in react?",
+        "desc": "want to add input tag in the form",
+        "language": "Python",
+        "date": "2023-06-02",
+        "id": 6
+      }
+    
+    
+    
     ]
 
     
