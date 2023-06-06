@@ -89,34 +89,7 @@
           }
     ],
     "users" : [
-      {
-        "name": "mark",
-        "avatar": "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
-        "email": "mark@gmail.com",
-        "password": "123456",
-        "id": 1
-      },
-      {
-        "name": "tony",
-        "avatar": "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
-        "email": "tony@gmail.com",
-        "password": "123456",
-        "id": 2
-      },
-      {
-        "name": "asif",
-        "avatar": "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
-        "email": "asif@gmail.com",
-        "password": "123456",
-        "id": 3
-      },
-      {
-        "name": "clark",
-        "avatar": "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
-        "email": "clark@gmail.com",
-        "password": "123456",
-        "id": 4
-      }
+      
 
     ],
     "forum" : [
